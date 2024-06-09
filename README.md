@@ -2,9 +2,9 @@
 
 ▰ 🌱 I’m currently learning how to use gitHub the right way....Thanks Sue
 
-▰ 👯 I’m looking to collaborate on a repository that deals with C# code
+▰ 👯 I’m looking to collaborate on with other IT professionals to help find an IT internship
 
-▰ 🤔 I’m looking for help with Database to PowerBI connectivity
+▰ 🤔 I’m looking for help with what i should expect in an internship, must do's when going for one
 
 ▰ 💬 Ask me about anything...im an open book
 
